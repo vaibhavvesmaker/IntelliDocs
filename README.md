@@ -1,6 +1,6 @@
 # IntelliDocs
 
-**IntelliDocs** is an end-to-end AI-powered document exploration and summarization platform. It uses a **Retrieval-Augmented Generation (RAG)** approach with Large Language Models (LLMs) to help you ask questions about PDF documents and receive contextually grounded, concise answers.
+**IntelliDocs** is an end-to-end AI-powered document exploration and summarization platform. It uses a **Retrieval-Augmented Generation (RAG)** approach with Large Language Models (LLMs) to help you ask questions about PDF documents and receive contextually grounded, concise answers. 
 
 ## Table of Contents
 
